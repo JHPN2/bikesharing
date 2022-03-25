@@ -18,3 +18,8 @@ Finally, let's analyze the age of these riders. The final two visuals will help 
 
 ### Summary
 Based on the results from the analysis, it can be determined that bike sharing favors young professionals who live and work within a dense urban environment as demostrated with the NYC Citibike program. Further analysis will need to be taken to understand the similarities and differences between the urban centers of New York City and De Moines. Maps similar to NYC below showing start and end points for rides to points of interests will need to be studied for De Moines in order to fully understand the dynamics of place a bike share program in De Moines' urban center.
+
+![NYC Citibike Start](visualizations/Top&#32;Sharing&#32;Locations.png "NYC Citibike Map 1")
+![NYC Citibike Start](visualizations/Top&#32;Ending&#32;Locations.png "NYC Citibike Map 2")
+
+
